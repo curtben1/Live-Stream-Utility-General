@@ -1,4 +1,4 @@
-# Live-stream-utility
+# Live stream utility
 
 This portable utilty provides a user interface which sshs into a device with a given ip and plays, using vlc, the media link given. It it labeled as livestreaming as this was its original use case however any media link compatible with vlc should work.
 
